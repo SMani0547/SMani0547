@@ -1,8 +1,4 @@
-<img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d6cTV4a3M1N2h5dXg4aGFiYThscWZuaXVva2VhaW9pbThxa21kdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
-
-###
-
-<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhhcDl2d3dtMXY2Mzhta2s0NGNxNHY0eHFhc21tZHN1dnB6ZjVnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d6cTV4a3M1N2h5dXg4aGFiYThscWZuaXVva2VhaW9pbThxa21kdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
 
 ###
 
@@ -11,6 +7,10 @@
 ###
 
 <p align="left">I am a Passionate Software Engineering Student from Fiji</p>
+
+###
+
+<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhhcDl2d3dtMXY2Mzhta2s0NGNxNHY0eHFhc21tZHN1dnB6ZjVnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
