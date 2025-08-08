@@ -1,4 +1,6 @@
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d6cTV4a3M1N2h5dXg4aGFiYThscWZuaXVva2VhaW9pbThxa21kdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
+<br clear="both">
+
+<img align="right" height="340" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhhcDl2d3dtMXY2Mzhta2s0NGNxNHY0eHFhc21tZHN1dnB6ZjVnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
@@ -10,12 +12,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhhcDl2d3dtMXY2Mzhta2s0NGNxNHY0eHFhc21tZHN1dnB6ZjVnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
@@ -24,11 +20,15 @@
 
 ###
 
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d6cTV4a3M1N2h5dXg4aGFiYThscWZuaXVva2VhaW9pbThxa21kdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
+
+###
+
 <h2 align="left">Skills</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -74,7 +74,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/shiva-goundar-270a901b9" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
