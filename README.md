@@ -1,4 +1,6 @@
-<br clear="both">
+<img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d6cTV4a3M1N2h5dXg4aGFiYThscWZuaXVva2VhaW9pbThxa21kdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
+
+###
 
 <img align="right" height="340" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhhcDl2d3dtMXY2Mzhta2s0NGNxNHY0eHFhc21tZHN1dnB6ZjVnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
@@ -17,10 +19,6 @@
 ###
 
 <p align="left">🌱 Currently working on FixitFiji, my IEP project aimed at helping communities easily report and track issues.  <br>💡 Interested in full-stack development, cloud hosting, and user-friendly web solutions.  <br>📚 Learning more about backend systems and offline-first web apps using Firebase.  <br>⚡ Fun fact: I debug code faster with coffee ☕ in hand.</p>
-
-###
-
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d6cTV4a3M1N2h5dXg4aGFiYThscWZuaXVva2VhaW9pbThxa21kdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
 
 ###
 
@@ -102,15 +100,15 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SMani0547/SMani0547/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SMani0547/SMani0547/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SMani0547/SMani0547/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SMani0547/SMani0547/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/SMani0547/SMani0547/output/snake.svg" alt="Snake animation" />
 
 ###
 
