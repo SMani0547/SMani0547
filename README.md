@@ -6,11 +6,11 @@
 
 ###
 
-<h1 align="left">Hey 👋 I'm Shiva</h1>
+<h1 align="right">Hey 👋 I'm Shiva</h1>
 
 ###
 
-<p align="left">I am a Passionate Software Engineering Student from Fiji</p>
+<p align="right">I am a Passionate Software Engineering Student from Fiji</p>
 
 ###
 
