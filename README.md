@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌱 Currently working on FixitFiji, my IEP project aimed at helping communities easily report and track issues.  <br>💡 Interested in full-stack development, cloud hosting, and user-friendly web solutions.  <br>📚 Learning more about backend systems and offline-first web apps using Firebase.  <br>⚡ Fun fact: I debug code faster with coffee ☕ in hand.</p>
+<p align="left">🌱 Currently working on VMS integration into Online Systems, payment systems integrations.  <br>💡 Interested in full-stack development, cloud hosting, and user-friendly web solutions.  <br>⚡ Fun fact: I debug code faster with coffee ☕ in hand.</p>
 
 ###
 
