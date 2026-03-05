@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I am a Passionate Software Engineering Student from Fiji</p>
+<p align="center">I am a Passionate Software Engineer from Fiji</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌱 Currently working on VMS integration into Online Systems, payment systems integrations.  <br>💡 Interested in full-stack development, cloud hosting, and user-friendly web solutions.  <br>⚡ Fun fact: I debug code faster with coffee ☕ in hand.</p>
+<p align="left">🌱 Currently working on FRCS VMS integration into Online Systems, payment systems integrations, and AI Chatbots.  <br>💡 Interested in full-stack development, game development, cloud hosting, and user-friendly web solutions.  <br>⚡ Fun fact: I debug code faster with coffee ☕ in hand.</p>
 
 ###
 
