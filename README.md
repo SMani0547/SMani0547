@@ -478,7 +478,7 @@ alt="3D Portfolio 2026"
 <img
 width="31%"
 height="170"
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFreGp2aXl4OWxwdTN0ZnNmOG1hOTc0NnJ3Zml3ZGJ6NWM2M2xsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JCHM2csigByOLgpwYf/giphy.gif"
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t4NmVsdTI0YW5xYmFqaDQ4dmJrOHlrYzQ2OHJ4cnVvMnIzNTRpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gU5OZNEQA0J6dJ2XVh/giphy.gif"
 alt="Monkey D. Luffy"
 />
 <img
