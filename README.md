@@ -95,31 +95,46 @@ I am a software engineer from Fiji who enjoys building reliable, practical and u
 ### Languages
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,kotlin&perline=7" alt="Programming languages" />
+<img
+src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,kotlin&perline=7&theme=dark"
+alt="Programming languages"
+/>
 </div>
 
-### Frontend Development
+### Frontend and Full-Stack Development
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,bootstrap&perline=6" alt="Frontend technologies" />
+<img
+src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap&perline=7&theme=dark"
+alt="Frontend and full-stack technologies"
+/>
 </div>
 
 ### Backend, Cloud and DevOps
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,spring,docker,gcp,firebase&perline=6" alt="Backend and cloud technologies" />
+<img
+src="https://skillicons.dev/icons?i=nodejs,express,dotnet,spring,docker,gcp,azure,firebase,githubactions&perline=9&theme=dark"
+alt="Backend, cloud and DevOps technologies"
+/>
 </div>
 
 ### Databases and Development Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,git,github,postman,jira&perline=8" alt="Databases and tools" />
+<img
+src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,git,github,postman,jira&perline=8&theme=dark"
+alt="Databases and development tools"
+/>
 </div>
 
-### Testing and Game Development
+### Testing, 3D and Game Development
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=selenium,unreal&perline=2" alt="Testing and game development" />
+<img
+src="https://skillicons.dev/icons?i=selenium,blender,unreal&perline=3&theme=dark"
+alt="Testing, 3D and game development tools"
+/>
 </div>
 
 ---
@@ -159,14 +174,14 @@ alt="Animated project introduction"
 />
 </a>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Personal-Projects-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Personal projects" />
 <img src="https://img.shields.io/badge/University-Projects-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white" alt="University projects" />
 <img src="https://img.shields.io/badge/Professional-Systems-2563EB?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Professional systems" />
 <img src="https://img.shields.io/badge/Hackathon-Innovations-F59E0B?style=for-the-badge&logo=lightning&logoColor=white" alt="Hackathon innovations" />
 
-<br><br>
+<br>
 
 <p>
 From early static websites to production cloud integrations, university systems,
