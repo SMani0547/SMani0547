@@ -136,7 +136,7 @@ Testing and Game Development
       </a>
     </td>
 
-    <td width="33%" align="center" valign="top">
+  <td width="33%" align="center" valign="top">
       <img
         width="100%"
         src="YOUR_PORTFOLIO_2025_IMAGE"
@@ -152,7 +152,7 @@ Testing and Game Development
       </a>
     </td>
 
-    <td width="33%" align="center" valign="top">
+  <td width="33%" align="center" valign="top">
       <img
         width="100%"
         src="YOUR_PORTFOLIO_2026_IMAGE"
@@ -191,7 +191,7 @@ Testing and Game Development
       </a>
     </td>
 
-    <td width="50%" align="center" valign="top">
+  <td width="50%" align="center" valign="top">
       <img width="100%" src="YOUR_NEON_CHAT_IMAGE" alt="Neon Chat" />
       <h3>💬 Neon Chat</h3>
       <p>A Discord-inspired communication platform with real-time conversations.</p>
@@ -220,7 +220,7 @@ Testing and Game Development
       </a>
     </td>
 
-    <td width="50%" align="center" valign="top">
+  <td width="50%" align="center" valign="top">
       <img width="100%" src="YOUR_EDUCATION_PLATFORM_IMAGE" alt="Education Management Platform" />
       <h3>🎓 Education Management Platform</h3>
       <p>Student recruitment, learning management, results and certificate generation.</p>
@@ -247,7 +247,7 @@ Testing and Game Development
         </a>
       </td>
 
-      <td width="50%" align="center">
+  <td width="50%" align="center">
         <h3>🎂 Cake Store</h3>
         <p>Online cake catalogue and ordering platform.</p>
         <a href="YOUR_CAKE_STORE_URL">
@@ -256,7 +256,7 @@ Testing and Game Development
       </td>
     </tr>
 
-    <tr>
+   <tr>
       <td width="50%" align="center">
         <h3>💰 Cyber Finance</h3>
         <p>Personal budgeting and expense-management application.</p>
@@ -265,7 +265,7 @@ Testing and Game Development
         </a>
       </td>
 
-      <td width="50%" align="center">
+  <td width="50%" align="center">
         <h3>🎵 Mystify</h3>
         <p>A music streaming experience currently under development.</p>
         <a href="YOUR_MYSTIFY_URL">
@@ -292,7 +292,7 @@ Testing and Game Development
       <img src="https://img.shields.io/badge/FRCS-TaxCore-6366F1?style=flat-square" />
     </td>
 
-    <td width="50%" align="center" valign="top">
+  <td width="50%" align="center" valign="top">
       <img width="100%" src="YOUR_CPVMS_ABODE_IMAGE" alt="CPVMS AbodeBooking" />
       <h3>🏨 CPVMS — AbodeBooking</h3>
       <p>Webhook-driven booking and fiscalisation integration for AbodeBooking.</p>
@@ -314,7 +314,7 @@ Testing and Game Development
       </a>
     </td>
 
-    <td width="50%" align="center" valign="top">
+  <td width="50%" align="center" valign="top">
       <img width="100%" src="YOUR_CP_AI_IMAGE" alt="Internal CP AI Assistant" />
       <h3>🤖 Internal CP AI Assistant</h3>
       <p>An internal AI assistant for company information, support and automation.</p>
@@ -336,12 +336,12 @@ Testing and Game Development
         <p>FJD-based currency conversion platform.</p>
       </td>
 
-      <td width="33%" align="center">
+  <td width="33%" align="center">
         <h3>🔐 Credential Manager</h3>
         <p>Secure integration credential and certificate management.</p>
       </td>
 
-      <td width="33%" align="center">
+  <td width="33%" align="center">
         <h3>📈 CPVMS Analytics</h3>
         <p>Historical fiscalisation data and performance insights.</p>
       </td>
@@ -358,7 +358,7 @@ Testing and Game Development
   <tr>
     <td width="33%" align="center" valign="top">
       <img width="100%" src="YOUR_PACIFIC_SHIELD_IMAGE" alt="Pacific Shield" />
-      <h3>🛡️ Pacific Shield</h3>
+      <h3>🛡️ CyberSafe</h3>
       <img src="https://img.shields.io/badge/Hackathon-Winner-F59E0B?style=flat-square" />
       <p>Pacific-focused scam detection, cybersecurity learning and reporting.</p>
       <img src="https://img.shields.io/badge/Cybersecurity-EA4335?style=flat-square" />
@@ -369,7 +369,7 @@ Testing and Game Development
       </a>
     </td>
 
-    <td width="33%" align="center" valign="top">
+  <td width="33%" align="center" valign="top">
       <img width="100%" src="YOUR_PRI_IMAGE" alt="Pacific Response Intelligence" />
       <h3>🌊 Pacific Response Intelligence</h3>
       <img src="https://img.shields.io/badge/Google-Hackathon-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -382,7 +382,7 @@ Testing and Game Development
       </a>
     </td>
 
-    <td width="33%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
       <img width="100%" src="YOUR_NEXUS_IMAGE" alt="NEXUS" />
       <h3>🌱 NEXUS</h3>
       <img src="https://img.shields.io/badge/Ongoing-F59E0B?style=flat-square" />
