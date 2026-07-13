@@ -102,7 +102,7 @@ Testing and Game Development
 
 <br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SMani0547&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=SMani0547&locale=en&mode=weekly&theme=nightowl&hide_border=true&border_radius=10" />
 
 </div>
 <!-- ===================== CONTRIBUTION ANIMATION ===================== -->
