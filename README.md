@@ -139,48 +139,41 @@ I am a software engineer from Fiji who enjoys building reliable, practical and u
 
 </div>
 
-<!-- ===================== PROJECTS ===================== -->
-
 <!-- ===================== FEATURED PROJECTS HEADER ===================== -->
 
 <div align="center">
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:020617,45:1E3A8A,100:0EA5E9&text=Featured%20Projects&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Ideas%20transformed%20into%20real%20digital%20experiences&descAlignY=64&descSize=18&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:020617,45:1E3A8A,100:0EA5E9&text=Featured%20Projects&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Ideas%20transformed%20into%20real%20digital%20experiences&descAlignY=56&descSize=18&animation=twinkling"
 alt="Featured Projects"
 />
 
 <a href="https://git.io/typing-svg">
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=From+simple+websites+to+full-stack+platforms;Building+cloud+integrations+and+AI-powered+solutions;Creating+technology+for+Fiji+and+the+Pacific;Experimenting+with+interactive+3D+and+multiplayer+experiences"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+full-stack+platforms+and+cloud+integrations;Creating+AI-powered+solutions+for+real-world+problems;Developing+technology+for+Fiji+and+the+Pacific;Exploring+interactive+3D+and+multiplayer+experiences"
 alt="Animated project introduction"
 />
 </a>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Personal-Projects-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Personal projects" />
-<img src="https://img.shields.io/badge/University-Projects-8B5CF6?style=for-the-badge&logo=graduationcap&logoColor=white" alt="University projects" />
+<img src="https://img.shields.io/badge/University-Projects-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white" alt="University projects" />
 <img src="https://img.shields.io/badge/Professional-Systems-2563EB?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Professional systems" />
 <img src="https://img.shields.io/badge/Hackathon-Innovations-F59E0B?style=for-the-badge&logo=lightning&logoColor=white" alt="Hackathon innovations" />
 
 <br><br>
 
 <p>
-From early static websites to production cloud integrations, AI platforms and interactive 3D experiences.
-</p>
-
-<p>
-These projects represent my journey of learning, experimenting and building technology that addresses real-world problems.
+From early static websites to production cloud integrations, university systems,
+AI platforms and interactive 3D experiences.
 </p>
 
 </div>
 
-<br>
-
 ---
-
+<!-- ===================== PROJECTS ===================== -->
 ## 🧑‍💻 Portfolio Evolution
 
 <table>
@@ -232,6 +225,144 @@ alt="3D Portfolio 2026"
 <img src="https://img.shields.io/badge/View%20Build-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== UNIVERSITY PROJECTS ===================== -->
+
+## 🎓 University Projects
+
+<p align="center">
+Selected academic projects focused on solving practical community and operational challenges.
+</p>
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<img
+width="100%"
+src="./assets/projects/fixit-fiji.png"
+alt="FixIt Fiji civic issue reporting platform"
+/>
+
+<h3>🇫🇯 FixIt Fiji</h3>
+
+<img
+src="https://img.shields.io/badge/Final%20Year-Project-8B5CF6?style=flat-square"
+alt="Final year project"
+/>
+
+<img
+src="https://img.shields.io/badge/Civic-Tech-0EA5E9?style=flat-square"
+alt="Civic technology"
+/>
+
+<p>
+A community issue-reporting platform that allows people to report public problems such as stray dogs, damaged roads, broken pipes and other local infrastructure concerns.
+</p>
+
+<p>
+Reports can include issue information and location details, helping responsible organizations identify, review and respond to community problems more efficiently.
+</p>
+
+<img
+src="https://img.shields.io/badge/Issue-Reporting-EA4335?style=flat-square"
+alt="Issue reporting"
+/>
+
+<img
+src="https://img.shields.io/badge/Community-Platform-22C55E?style=flat-square"
+alt="Community platform"
+/>
+
+<img
+src="https://img.shields.io/badge/Location-Based-6366F1?style=flat-square"
+alt="Location based"
+/>
+
+<br><br>
+
+<a href="YOUR_FIXIT_FIJI_URL">
+<img
+src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"
+alt="View FixIt Fiji"
+/>
+</a>
+
+<a href="YOUR_FIXIT_FIJI_REPOSITORY">
+<img
+src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="View FixIt Fiji source code"
+/>
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<img
+width="100%"
+src="./assets/projects/sports-facility-management.png"
+alt="Sports Facility Management System"
+/>
+
+<h3>🏟️ Sports Facility Management System</h3>
+
+<img
+src="https://img.shields.io/badge/University-Project-8B5CF6?style=flat-square"
+alt="University project"
+/>
+
+<img
+src="https://img.shields.io/badge/Booking-System-0EA5E9?style=flat-square"
+alt="Booking system"
+/>
+
+<p>
+A centralized platform for discovering and booking sports facilities while viewing upcoming sporting activities, competitions and community events.
+</p>
+
+<p>
+The system helps users check facility availability, make bookings and stay informed about scheduled events through one organized platform.
+</p>
+
+<img
+src="https://img.shields.io/badge/Facility-Booking-22C55E?style=flat-square"
+alt="Facility booking"
+/>
+
+<img
+src="https://img.shields.io/badge/Event-Management-F59E0B?style=flat-square"
+alt="Event management"
+/>
+
+<img
+src="https://img.shields.io/badge/Scheduling-6366F1?style=flat-square"
+alt="Scheduling"
+/>
+
+<br><br>
+
+<a href="YOUR_SPORTS_FACILITY_URL">
+<img
+src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"
+alt="View Sports Facility Management System"
+/>
+</a>
+
+<a href="YOUR_SPORTS_FACILITY_REPOSITORY">
+<img
+src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="View source code"
+/>
+</a>
+
+</td>
+
 </tr>
 </table>
 
