@@ -690,12 +690,44 @@ alt="Ichigo Kurosaki"
 
 <br>
 
+<!-- ===================== CONTACT ===================== -->
+
 <div align="center">
 
-<h2><img src="https://api.iconify.design/lucide/handshake.svg?color=%2338BDF8" width="26" align="center" alt="Collaboration" />&nbsp; Let’s Build Something Meaningful</h2>
+<img
+src="https://api.iconify.design/lucide/handshake.svg?color=%2338BDF8"
+width="30"
+align="center"
+alt="Contact"
+/>
 
-<p>Interested in cloud systems, integrations, AI, cybersecurity or technology for the Pacific? Feel free to connect with me.</p>
+<h2>Let’s Build Something Meaningful</h2>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:1e3a8a,100:0ea5e9" alt="Footer" />
+<p>
+Have a project, integration or collaboration idea?<br>
+Send me a message and I’ll get back to you.
+</p>
+
+<a href="https://YOUR-CONTACT-APP.replit.app">
+<img
+src="https://img.shields.io/badge/Send%20a%20Message-Open%20Contact%20Form-0EA5E9?style=for-the-badge&logo=maildotru&logoColor=white"
+alt="Open contact form"
+/>
+</a>
+
+<a href="mailto:shivamanigoundar101@gmail.com">
+<img
+src="https://img.shields.io/badge/Email-Directly-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+alt="Email Shiva"
+/>
+</a>
+
+<br><br>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:1e3a8a,100:0ea5e9"
+alt="Footer"
+/>
 
 </div>
