@@ -471,27 +471,49 @@ alt="3D Portfolio 2026"
 
 </details>
 
----
 <div align="center">
+
 <img
 width="31%"
-height="160"
+height="170"
 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpmZnUzZzI4eXU5OWJubzA1cjNieWtzY3RrYTI3cHh3aHdyMHJobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g5OSgysSjEuVtFq0GY/giphy.gif"
-alt="Developer animation one"
+alt="Monkey D. Luffy"
 />
 <img
 width="31%"
-height="160"
+height="170"
 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFreGp2aXl4OWxwdTN0ZnNmOG1hOTc0NnJ3Zml3ZGJ6NWM2M2xsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JCHM2csigByOLgpwYf/giphy.gif"
-alt="Developer animation two"
+alt="Naruto Uzumaki"
 />
 <img
 width="31%"
-height="160"
+height="170"
 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1peDVjdmhwdzJlOTd0NXpwMTkwcDR3eTJvOGpiZ3JtbmRmdmtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLYQnbND9gkYU/giphy.gif"
-alt="Developer animation three"
+alt="Ichigo Kurosaki"
 />
+
+<br>
+
+<img
+width="31%"
+src="https://img.shields.io/badge/Monkey%20D.%20Luffy-One%20Piece-E11D48?style=for-the-badge"
+alt="Monkey D. Luffy"
+/>
+<img
+width="31%"
+src="https://img.shields.io/badge/Naruto%20Uzumaki-Naruto-F97316?style=for-the-badge"
+alt="Naruto Uzumaki"
+/>
+<img
+width="31%"
+src="https://img.shields.io/badge/Ichigo%20Kurosaki-Bleach-7C3AED?style=for-the-badge"
+alt="Ichigo Kurosaki"
+/>
+
 </div>
+
+<br>
+
 
 <br>
 
