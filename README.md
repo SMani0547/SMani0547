@@ -1,121 +1,119 @@
-<img align="left" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d6cTV4a3M1N2h5dXg4aGFiYThscWZuaXVva2VhaW9pbThxa21kdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
-
-###
-
-<img align="right" height="340" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhhcDl2d3dtMXY2Mzhta2s0NGNxNHY0eHFhc21tZHN1dnB6ZjVnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
-
-<h1 align="center">Hey 👋 I'm Shiva</h1>
-
-###
-
-<p align="center">I am a Passionate Software Engineer from Fiji</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🌱 Currently working on FRCS VMS integration into Online Systems, payment systems integrations, and AI Chatbots.  <br>💡 Interested in full-stack development, game development, cloud hosting, and user-friendly web solutions.  <br>⚡ Fun fact: I debug code faster with coffee ☕ in hand.</p>
-
-###
-
-<h2 align="left">Skills</h2>
-
-###
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:1e3a8a,100:0ea5e9&text=Shiva%20Mani%20Goundar&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20Integrations&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineer+from+Fiji+%F0%9F%87%AB%F0%9F%87%AF;Building+cloud-native+integration+platforms;Working+with+GCP%2C+AI+and+full-stack+technologies;Turning+complex+problems+into+simple+solutions"
+    alt="Typing introduction"
+  />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SMani0547&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+
 </div>
 
-###
+<!-- ===================== SOCIAL LINKS ===================== -->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shiva-goundar-270a901b9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="shivamanigoundar101@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/0s_mani0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/shiva.goundar.37" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="discordapp.com/users/790832374199484456" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+
+<a href="https://www.linkedin.com/in/shiva-goundar-270a901b9">
+  <img src="https://img.shields.io/badge/LinkedIn-Shiva%20Goundar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:shivamanigoundar101@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://counterpoint.digital">
+  <img src="https://img.shields.io/badge/Counterpoint%20Group-Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Counterpoint Group" />
+</a>
+
+<a href="https://www.instagram.com/0s_mani0">
+  <img src="https://img.shields.io/badge/Instagram-@0s__mani0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://discord.com/users/790832374199484456">
+  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
 </div>
 
-###
+<br>
 
+<!-- ===================== ABOUT ===================== -->
+
+<img
+  align="right"
+  height="230"
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhhcDl2d3dtMXY2Mzhta2s0NGNxNHY0eHFhc21tZHN1dnB6ZjVnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
+  alt="Developer animation"
+/>
+
+## 👨‍💻 About Me
+
+I am a software engineer from Fiji who enjoys building reliable, practical and user-friendly digital systems.
+
+- 💼 Working as an **Online Systems Engineer at Counterpoint Group**
+- 🔭 Building **CPVMS**, an integration platform connecting booking and POS systems with FRCS TaxCore
+- ☁️ Working with **Google Cloud Platform, Cloud Run, APIs and system integrations**
+- 🤖 Exploring **AI chatbots, Gemini and intelligent decision-support systems**
+- 🛡️ Interested in **AI, cybersecurity and Pacific-focused technology**
+- 🎮 Enjoy full-stack development, game development and interactive applications
+- ☕ I debug code faster when coffee is involved
+
+<br clear="both">
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+## 🚀 Current Focus
+
+text
+☁️ Cloud-native application development
+🔗 Payment, booking and government-system integrations
+🤖 AI-powered assistants and automation
+🛡️ Cybersecurity and digital safety platforms
+🌏 Technology designed for Fiji and the Pacific
+<!-- ===================== TECHNOLOGIES ===================== -->
+🛠️ Technology Stack
+Languages
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,kotlin&perline=7" alt="Programming languages" /> </div>
+Frontend Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,bootstrap&perline=6" alt="Frontend technologies" /> </div>
+Backend, Cloud and DevOps
+<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,dotnet,spring,docker,gcp,firebase&perline=6" alt="Backend and cloud technologies" /> </div>
+Databases and Development Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,git,github,postman,jira&perline=8" alt="Databases and tools" /> </div>
+Testing and Game Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=selenium,unreal&perline=2" alt="Testing and game development" /> </div>
+<!-- ===================== GITHUB STATISTICS ===================== -->
+📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SMani0547&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SMani0547&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=nightowl&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SMani0547&locale=en&mode=weekly&theme=nightowl&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=SMani0547&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" alt="Shiva's GitHub statistics" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMani0547&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Most used languages" />
+
+<br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=SMani0547&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
+
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SMani0547/SMani0547/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SMani0547/SMani0547/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SMani0547/SMani0547/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/SMani0547/SMani0547/output/snake.svg" alt="Snake animation" />
-
-###
-
+<!-- ===================== CONTRIBUTION ANIMATION ===================== -->
+🟡 Contribution Arcade
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SMani0547/SMani0547/output/pacman-contribution-graph-dark.svg" > <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SMani0547/SMani0547/output/pacman-contribution-graph.svg" > <img width="100%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/SMani0547/SMani0547/output/pacman-contribution-graph.svg" > </picture> <br> <details> <summary><strong>🐍 View Snake Contribution Animation</strong></summary> <br> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SMani0547/SMani0547/output/snake-dark.svg" > <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SMani0547/SMani0547/output/snake.svg" > <img width="100%" alt="Snake contribution animation" src="https://raw.githubusercontent.com/SMani0547/SMani0547/output/snake.svg" > </picture> </details>
+<!-- ===================== SPOTIFY ===================== -->
+🎧 Recently Played
+<div align="center"> <a href="https://open.spotify.com/user/31gibphl2u7wal7otptf4nctbmle"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gibphl2u7wal7otptf4nctbmle&count=5&unique=true" alt="Recently played Spotify tracks" /> </a> </div>
 <div align="center">
-  <a href="https://open.spotify.com/user/31gibphl2u7wal7otptf4nctbmle">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gibphl2u7wal7otptf4nctbmle&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+💬 Let’s Build Something Meaningful
 
-###
+Interested in cloud systems, integrations, AI, cybersecurity or technology for the Pacific? Feel free to connect with me.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:1e3a8a,100:0ea5e9" /> </div> 
