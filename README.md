@@ -472,6 +472,24 @@ alt="3D Portfolio 2026"
 </details>
 
 ---
+<img
+  align="left"
+  height="150"
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpmZnUzZzI4eXU5OWJubzA1cjNieWtzY3RrYTI3cHh3aHdyMHJobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g5OSgysSjEuVtFq0GY/giphy.gif"
+  alt="Developer animation"
+/>
+<img
+  align="center"
+  height="150"
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFreGp2aXl4OWxwdTN0ZnNmOG1hOTc0NnJ3Zml3ZGJ6NWM2M2xsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JCHM2csigByOLgpwYf/giphy.gif"
+  alt="Developer animation"
+/>
+<img
+  align="right"
+  height="150"
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1peDVjdmhwdzJlOTd0NXpwMTkwcDR3eTJvOGpiZ3JtbmRmdmtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLYQnbND9gkYU/giphy.gif"
+  alt="Developer animation"
+/>
 
 <div align="center">
 
@@ -482,21 +500,4 @@ alt="3D Portfolio 2026"
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:1e3a8a,100:0ea5e9" alt="Footer" />
 
 </div>
-<img
-  align="left"
-  height="230"
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5iN3pzNG5qNTk0ZnQ3MjY0MnN4bm9zNTh4YndzOHlwM2hqYmUweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif"
-  alt="Developer animation"
-/>
-<img
-  align="center"
-  height="230"
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5iN3pzNG5qNTk0ZnQ3MjY0MnN4bm9zNTh4YndzOHlwM2hqYmUweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif"
-  alt="Developer animation"
-/>
-<img
-  align="right"
-  height="230"
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5iN3pzNG5qNTk0ZnQ3MjY0MnN4bm9zNTh4YndzOHlwM2hqYmUweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif"
-  alt="Developer animation"
-/>
+
