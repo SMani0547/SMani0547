@@ -10,7 +10,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineer+from+Fiji+%F0%9F%87%AB%F0%9F%87%AF;Building+cloud-native+integration+platforms;Working+with+GCP%2C+AI+and+full-stack+technologies;Turning+complex+problems+into+simple+solutions"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineer+from+Fiji;Building+cloud-native+integration+platforms;Working+with+GCP%2C+AI+and+full-stack+technologies;Turning+complex+problems+into+simple+solutions"
     alt="Typing introduction"
   />
 </a>
@@ -58,17 +58,17 @@
   alt="Developer animation"
 />
 
-## 👨‍💻 About Me
+<h2><img src="https://api.iconify.design/lucide/circle-user-round.svg?color=%2338BDF8" width="26" align="center" alt="About" />&nbsp; About Me</h2>
 
 I am a software engineer from Fiji who enjoys building reliable, practical and user-friendly digital systems.
 
-- 💼 Working as an **Online Systems Engineer at Counterpoint Group**
-- 🔭 Building **CPVMS**, an integration platform connecting booking and POS systems with FRCS TaxCore
-- ☁️ Working with **Google Cloud Platform, Cloud Run, APIs and system integrations**
-- 🤖 Exploring **AI chatbots, Gemini and intelligent decision-support systems**
-- 🛡️ Interested in **AI, cybersecurity and Pacific-focused technology**
-- 🎮 Enjoy full-stack development, game development and interactive applications
-- ☕ I debug code faster when coffee is involved
+<p><img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%2338BDF8" width="18" align="center" alt="Work" />&nbsp; Working as an <strong>Online Systems Engineer at Counterpoint Group</strong></p>
+<p><img src="https://api.iconify.design/lucide/workflow.svg?color=%2338BDF8" width="18" align="center" alt="Integration" />&nbsp; Building <strong>CPVMS</strong>, an integration platform connecting booking and POS systems with FRCS TaxCore</p>
+<p><img src="https://api.iconify.design/lucide/cloud.svg?color=%2338BDF8" width="18" align="center" alt="Cloud" />&nbsp; Working with <strong>Google Cloud Platform, Cloud Run, APIs and system integrations</strong></p>
+<p><img src="https://api.iconify.design/lucide/bot.svg?color=%2338BDF8" width="18" align="center" alt="AI" />&nbsp; Exploring <strong>AI chatbots, Gemini and intelligent decision-support systems</strong></p>
+<p><img src="https://api.iconify.design/lucide/shield-check.svg?color=%2338BDF8" width="18" align="center" alt="Cybersecurity" />&nbsp; Interested in <strong>AI, cybersecurity and Pacific-focused technology</strong></p>
+<p><img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2338BDF8" width="18" align="center" alt="Game development" />&nbsp; Enjoy full-stack development, game development and interactive applications</p>
+<p><img src="https://api.iconify.design/lucide/coffee.svg?color=%2338BDF8" width="18" align="center" alt="Coffee" />&nbsp; I debug code faster when coffee is involved</p>
 
 <br clear="both">
 
@@ -76,21 +76,19 @@ I am a software engineer from Fiji who enjoys building reliable, practical and u
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
-## 🚀 Current Focus
+<h2><img src="https://api.iconify.design/lucide/crosshair.svg?color=%2338BDF8" width="26" align="center" alt="Current focus" />&nbsp; Current Focus</h2>
 
-```text
-☁️ Cloud-native application development
-🔗 Payment, booking and government-system integrations
-🤖 AI-powered assistants and automation
-🛡️ Cybersecurity and digital safety platforms
-🌏 Technology designed for Fiji and the Pacific
-```
+<p><img src="https://api.iconify.design/lucide/cloud-cog.svg?color=%2338BDF8" width="18" align="center" alt="Cloud development" />&nbsp; Cloud-native application development</p>
+<p><img src="https://api.iconify.design/lucide/plug-zap.svg?color=%2338BDF8" width="18" align="center" alt="Integrations" />&nbsp; Payment, booking and government-system integrations</p>
+<p><img src="https://api.iconify.design/lucide/bot.svg?color=%2338BDF8" width="18" align="center" alt="AI automation" />&nbsp; AI-powered assistants and automation</p>
+<p><img src="https://api.iconify.design/lucide/shield-check.svg?color=%2338BDF8" width="18" align="center" alt="Digital safety" />&nbsp; Cybersecurity and digital safety platforms</p>
+<p><img src="https://api.iconify.design/lucide/globe-2.svg?color=%2338BDF8" width="18" align="center" alt="Pacific technology" />&nbsp; Technology designed for Fiji and the Pacific</p>
 
 ---
 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
-## 🛠️ Technology Stack
+<h2><img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338BDF8" width="26" align="center" alt="Technology" />&nbsp; Technology Stack</h2>
 
 ### Languages
 
@@ -141,7 +139,7 @@ alt="Testing, 3D and game development tools"
 
 <!-- ===================== GITHUB STATISTICS ===================== -->
 
-## 📊 GitHub Statistics
+<h2><img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%2338BDF8" width="26" align="center" alt="Statistics" />&nbsp; GitHub Statistics</h2>
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=SMani0547&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" alt="Shiva's GitHub statistics" />
@@ -192,7 +190,7 @@ AI platforms and interactive 3D experiences.
 
 ---
 <!-- ===================== PROJECTS ===================== -->
-## 🧑‍💻 Portfolio Evolution
+<h2><img src="https://api.iconify.design/lucide/panels-top-left.svg?color=%2338BDF8" width="26" align="center" alt="Portfolio" />&nbsp; Portfolio Evolution</h2>
 
 <table>
 <tr>
@@ -250,7 +248,7 @@ alt="3D Portfolio 2026"
 
 <!-- ===================== UNIVERSITY PROJECTS ===================== -->
 
-## 🎓 University Projects
+<h2><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23A78BFA" width="26" align="center" alt="University projects" />&nbsp; University Projects</h2>
 
 
 
@@ -265,7 +263,7 @@ src="./assets/projects/fixit-fiji.png"
 alt="FixIt Fiji civic issue reporting platform"
 />
 
-<h3>🇫🇯 FixIt Fiji</h3>
+<h3><img src="https://api.iconify.design/lucide/map-pinned.svg?color=%23A78BFA" width="21" align="center" alt="FixIt Fiji" />&nbsp; FixIt Fiji</h3>
 
 <img
 src="https://img.shields.io/badge/Final%20Year-Project-8B5CF6?style=flat-square"
@@ -326,7 +324,7 @@ src="./assets/projects/sports-facility-management.png"
 alt="Sports Facility Management System"
 />
 
-<h3>🏟️ Sports Facility Management System</h3>
+<h3><img src="https://api.iconify.design/lucide/trophy.svg?color=%23A78BFA" width="21" align="center" alt="Sports facilities" />&nbsp; Sports Facility Management System</h3>
 
 <img
 src="https://img.shields.io/badge/University-Project-8B5CF6?style=flat-square"
@@ -384,13 +382,13 @@ alt="View source code"
 
 ---
 
-## 🌐 Personal Projects
+<h2><img src="https://api.iconify.design/lucide/folder-kanban.svg?color=%2322D3EE" width="26" align="center" alt="Personal projects" />&nbsp; Personal Projects</h2>
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/moviefusion.png" alt="MovieFusion" />
-<h3>🎬 MovieFusion</h3>
+<h3><img src="https://api.iconify.design/lucide/clapperboard.svg?color=%2322D3EE" width="21" align="center" alt="MovieFusion" />&nbsp; MovieFusion</h3>
 <p>Movie discovery, streaming and synchronized watch-together platform.</p>
 <img src="https://img.shields.io/badge/TMDB-API-01B4E4?style=flat-square&logo=themoviedatabase" alt="TMDB API" />
 <img src="https://img.shields.io/badge/Watch%20Together-Real--Time-8B5CF6?style=flat-square" alt="Watch Together" />
@@ -405,7 +403,7 @@ alt="View source code"
 
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/neon-chat.png" alt="Neon Chat" />
-<h3>💬 Neon Chat</h3>
+<h3><img src="https://api.iconify.design/lucide/messages-square.svg?color=%2322D3EE" width="21" align="center" alt="Neon Chat" />&nbsp; Neon Chat</h3>
 <p>A Discord-inspired communication platform with real-time conversations.</p>
 <img src="https://img.shields.io/badge/Real--Time-Chat-22C55E?style=flat-square" alt="Real-time chat" />
 <img src="https://img.shields.io/badge/Community-Platform-8B5CF6?style=flat-square" alt="Community platform" />
@@ -422,7 +420,7 @@ alt="View source code"
 <tr>
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/webinvite.png" alt="WebInvite" />
-<h3>💍 WebInvite</h3>
+<h3><img src="https://api.iconify.design/lucide/mail-open.svg?color=%2322D3EE" width="21" align="center" alt="WebInvite" />&nbsp; WebInvite</h3>
 <p>A platform for creating and sharing personalized digital wedding invitations.</p>
 <img src="https://img.shields.io/badge/Digital-Invitations-EC4899?style=flat-square" alt="Digital invitations" />
 <img src="https://img.shields.io/badge/Custom-Themes-8B5CF6?style=flat-square" alt="Custom themes" />
@@ -434,7 +432,7 @@ alt="View source code"
 
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/education-platform.png" alt="Education Management Platform" />
-<h3>🎓 Education Management Platform</h3>
+<h3><img src="https://api.iconify.design/lucide/book-open-check.svg?color=%2322D3EE" width="21" align="center" alt="Education platform" />&nbsp; Education Management Platform</h3>
 <p>Student recruitment, learning management, results and certificate generation.</p>
 <img src="https://img.shields.io/badge/LMS-Learning-6366F1?style=flat-square" alt="Learning management system" />
 <img src="https://img.shields.io/badge/Student-Management-0EA5E9?style=flat-square" alt="Student management" />
@@ -446,7 +444,7 @@ alt="View source code"
 <tr>
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/honey-store.png" alt="Honey E-Commerce Store" />
-<h3>🍯 Honey Store</h3>
+<h3><img src="https://api.iconify.design/lucide/shopping-basket.svg?color=%2322D3EE" width="21" align="center" alt="Honey Store" />&nbsp; Honey Store</h3>
 <p>A complete e-commerce website for browsing and purchasing honey products.</p>
 <img src="https://img.shields.io/badge/E--Commerce-Store-F59E0B?style=flat-square" alt="E-commerce store" />
 <img src="https://img.shields.io/badge/Product-Catalogue-22C55E?style=flat-square" alt="Product catalogue" />
@@ -458,7 +456,7 @@ alt="View source code"
 
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/cake-store.png" alt="Cake E-Commerce Store" />
-<h3>🎂 Cake Store</h3>
+<h3><img src="https://api.iconify.design/lucide/cake-slice.svg?color=%2322D3EE" width="21" align="center" alt="Cake Store" />&nbsp; Cake Store</h3>
 <p>An online cake catalogue and ordering platform with a visual shopping experience.</p>
 <img src="https://img.shields.io/badge/E--Commerce-Store-EC4899?style=flat-square" alt="E-commerce store" />
 <img src="https://img.shields.io/badge/Online-Ordering-8B5CF6?style=flat-square" alt="Online ordering" />
@@ -472,7 +470,7 @@ alt="View source code"
 <tr>
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/cyber-finance.png" alt="Cyber Finance" />
-<h3>💰 Cyber Finance</h3>
+<h3><img src="https://api.iconify.design/lucide/wallet-cards.svg?color=%2322D3EE" width="21" align="center" alt="Cyber Finance" />&nbsp; Cyber Finance</h3>
 <p>A personal budgeting application for tracking income, expenses and spending activity.</p>
 <img src="https://img.shields.io/badge/Finance-Budgeting-22C55E?style=flat-square" alt="Finance budgeting" />
 <img src="https://img.shields.io/badge/Expense-Tracking-0EA5E9?style=flat-square" alt="Expense tracking" />
@@ -484,7 +482,7 @@ alt="View source code"
 
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/mystify.png" alt="Mystify Music Streaming Platform" />
-<h3>🎵 Mystify</h3>
+<h3><img src="https://api.iconify.design/lucide/music.svg?color=%2322D3EE" width="21" align="center" alt="Mystify" />&nbsp; Mystify</h3>
 <p>A music streaming platform focused on discovery, playlists and a modern listening experience.</p>
 <img src="https://img.shields.io/badge/Music-Streaming-8B5CF6?style=flat-square" alt="Music streaming" />
 <img src="https://img.shields.io/badge/In%20Development-F59E0B?style=flat-square" alt="In development" />
@@ -498,13 +496,13 @@ alt="View source code"
 
 ---
 
-## 🏢 Professional Projects
+<h2><img src="https://api.iconify.design/lucide/building-2.svg?color=%2360A5FA" width="26" align="center" alt="Professional projects" />&nbsp; Professional Projects</h2>
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/cpvms-hotellink.png" alt="CPVMS Hotel Link Integration" />
-<h3>🔗 CPVMS — Hotel Link</h3>
+<h3><img src="https://api.iconify.design/lucide/link-2.svg?color=%2360A5FA" width="21" align="center" alt="Hotel Link integration" />&nbsp; CPVMS — Hotel Link</h3>
 <p>Middleware integration connecting Hotel Link booking and payment data with FRCS TaxCore.</p>
 <img src="https://img.shields.io/badge/Production-22C55E?style=flat-square" alt="Production" />
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
@@ -513,7 +511,7 @@ alt="View source code"
 
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/cpvms-abodebooking.png" alt="CPVMS AbodeBooking Integration" />
-<h3>🏨 CPVMS — AbodeBooking</h3>
+<h3><img src="https://api.iconify.design/lucide/hotel.svg?color=%2360A5FA" width="21" align="center" alt="AbodeBooking integration" />&nbsp; CPVMS — AbodeBooking</h3>
 <p>Webhook-driven booking, payment and fiscalisation integration for AbodeBooking.</p>
 <img src="https://img.shields.io/badge/Production-22C55E?style=flat-square" alt="Production" />
 <img src="https://img.shields.io/badge/Webhooks-EC4899?style=flat-square" alt="Webhooks" />
@@ -524,7 +522,7 @@ alt="View source code"
 <tr>
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/cp-ai-assistant.png" alt="Internal CP AI Assistant" />
-<h3>🤖 Internal CP AI Assistant</h3>
+<h3><img src="https://api.iconify.design/lucide/bot.svg?color=%2360A5FA" width="21" align="center" alt="AI assistant" />&nbsp; Internal CP AI Assistant</h3>
 <p>An internal AI assistant for company knowledge, staff support and workflow automation.</p>
 <img src="https://img.shields.io/badge/AI-Assistant-8B5CF6?style=flat-square" alt="AI assistant" />
 <img src="https://img.shields.io/badge/Internal-Private-64748B?style=flat-square" alt="Internal private project" />
@@ -532,7 +530,7 @@ alt="View source code"
 
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/cpvms-currency.png" alt="CPVMS Currency Exchange" />
-<h3>💱 CPVMS Currency Exchange</h3>
+<h3><img src="https://api.iconify.design/lucide/badge-dollar-sign.svg?color=%2360A5FA" width="21" align="center" alt="Currency exchange" />&nbsp; CPVMS Currency Exchange</h3>
 <p>An FJD-based currency conversion platform using live exchange-rate data.</p>
 <img src="https://img.shields.io/badge/Base-FJD-22C55E?style=flat-square" alt="FJD base currency" />
 <img src="https://img.shields.io/badge/Exchange%20Rate-API-0EA5E9?style=flat-square" alt="Exchange rate API" />
@@ -546,7 +544,7 @@ alt="View source code"
 <tr>
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/cpvms-credential-manager.png" alt="CPVMS Credential Manager" />
-<h3>🔐 CPVMS Credential Manager</h3>
+<h3><img src="https://api.iconify.design/lucide/key-round.svg?color=%2360A5FA" width="21" align="center" alt="Credential manager" />&nbsp; CPVMS Credential Manager</h3>
 <p>A secure system for managing integration credentials, API keys and FRCS certificates.</p>
 <img src="https://img.shields.io/badge/Security-Credentials-EA4335?style=flat-square" alt="Credential security" />
 <img src="https://img.shields.io/badge/Multi--Tenant-6366F1?style=flat-square" alt="Multi-tenant" />
@@ -555,7 +553,7 @@ alt="View source code"
 
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/cpvms-analytics.png" alt="CPVMS Analytics" />
-<h3>📈 CPVMS Analytics</h3>
+<h3><img src="https://api.iconify.design/lucide/chart-spline.svg?color=%2360A5FA" width="21" align="center" alt="Analytics" />&nbsp; CPVMS Analytics</h3>
 <p>A historical analytics platform for fiscalisation activity, transactions and system performance.</p>
 <img src="https://img.shields.io/badge/Data-Analytics-F59E0B?style=flat-square" alt="Data analytics" />
 <img src="https://img.shields.io/badge/Historical-Insights-0EA5E9?style=flat-square" alt="Historical insights" />
@@ -566,13 +564,13 @@ alt="View source code"
 
 ---
 
-## 🏆 Hackathon Projects
+<h2><img src="https://api.iconify.design/lucide/trophy.svg?color=%23F59E0B" width="26" align="center" alt="Hackathon projects" />&nbsp; Hackathon Projects</h2>
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 <img width="100%" src="./assets/projects/pacific-shield.png" alt="Pacific Shield" />
-<h3>🛡️ Cyber Safe</h3>
+<h3><img src="https://api.iconify.design/lucide/shield-check.svg?color=%23F59E0B" width="21" align="center" alt="Cyber Safe" />&nbsp; Cyber Safe</h3>
 <img src="https://img.shields.io/badge/Hackathon-Winner-F59E0B?style=flat-square" />
 <p>Pacific-focused scam detection, cybersecurity learning and reporting.</p>
 <img src="https://img.shields.io/badge/Cybersecurity-EA4335?style=flat-square" />
@@ -585,7 +583,7 @@ alt="View source code"
 
 <td width="33%" align="center" valign="top">
 <img width="100%" src="./assets/projects/pacific-response-intelligence.png" alt="Pacific Response Intelligence" />
-<h3>🌊 Pacific Response Intelligence</h3>
+<h3><img src="https://api.iconify.design/lucide/waves.svg?color=%23F59E0B" width="21" align="center" alt="Pacific response" />&nbsp; Pacific Response Intelligence</h3>
 <img src="https://img.shields.io/badge/Google-Hackathon-4285F4?style=flat-square&logo=google&logoColor=white" />
 <p>GPU-accelerated emergency risk scoring and decision intelligence.</p>
 <img src="https://img.shields.io/badge/NVIDIA-RAPIDS-76B900?style=flat-square&logo=nvidia&logoColor=white" />
@@ -598,7 +596,7 @@ alt="View source code"
 
 <td width="33%" align="center" valign="top">
 <img width="100%" src="./assets/projects/nexus.png" alt="NEXUS" />
-<h3>🌱 NEXUS</h3>
+<h3><img src="https://api.iconify.design/lucide/sprout.svg?color=%23F59E0B" width="21" align="center" alt="NEXUS" />&nbsp; NEXUS</h3>
 <img src="https://img.shields.io/badge/Ongoing-F59E0B?style=flat-square" />
 <p>Pacific crop and livestock data visualization and intelligence platform.</p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -615,7 +613,7 @@ alt="View source code"
 
 <div align="center">
 
-<h3>🔨 More Projects Are Always Being Built</h3>
+<h3><img src="https://api.iconify.design/lucide/hammer.svg?color=%2338BDF8" width="22" align="center" alt="More projects" />&nbsp; More Projects Are Always Being Built</h3>
 
 <img src="https://img.shields.io/badge/Always-Learning-0EA5E9?style=for-the-badge" alt="Always learning" />
 <img src="https://img.shields.io/badge/Always-Building-8B5CF6?style=for-the-badge" alt="Always building" />
@@ -627,7 +625,7 @@ alt="View source code"
 
 <!-- ===================== CONTRIBUTION ANIMATION ===================== -->
 
-## 🟡 Contribution Arcade
+<h2><img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23FACC15" width="26" align="center" alt="Contribution arcade" />&nbsp; Contribution Arcade</h2>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SMani0547/SMani0547/output/pacman-contribution-graph-dark.svg">
@@ -638,7 +636,7 @@ alt="View source code"
 <br>
 
 <details>
-<summary><strong>🐍 View Snake Contribution Animation</strong></summary>
+<summary><strong><img src="https://api.iconify.design/lucide/route.svg?color=%2322C55E" width="18" align="center" alt="Contribution animation" />&nbsp; View Snake Contribution Animation</strong></summary>
 
 <br>
 
@@ -700,11 +698,10 @@ alt="Ichigo Kurosaki"
 
 <div align="center">
 
-<h2>💬 Let’s Build Something Meaningful</h2>
+<h2><img src="https://api.iconify.design/lucide/handshake.svg?color=%2338BDF8" width="26" align="center" alt="Collaboration" />&nbsp; Let’s Build Something Meaningful</h2>
 
 <p>Interested in cloud systems, integrations, AI, cybersecurity or technology for the Pacific? Feel free to connect with me.</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:1e3a8a,100:0ea5e9" alt="Footer" />
 
 </div>
-
