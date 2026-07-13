@@ -142,12 +142,6 @@ alt="Testing, 3D and game development tools"
 <h2><img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%2338BDF8" width="26" align="center" alt="Statistics" />&nbsp; GitHub Statistics</h2>
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SMani0547&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" alt="Shiva's GitHub statistics" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMani0547&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Most used languages" />
-
-<br>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=SMani0547&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly" alt="GitHub contribution streak" />
 
 </div>
