@@ -81,7 +81,7 @@ text
 🛡️ Cybersecurity and digital safety platforms
 🌏 Technology designed for Fiji and the Pacific
 <!-- ===================== TECHNOLOGIES ===================== -->
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 Languages
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,kotlin&perline=7" alt="Programming languages" /> </div>
 Frontend Development
@@ -93,7 +93,7 @@ Databases and Development Tools
 Testing and Game Development
 <div align="center"> <img src="https://skillicons.dev/icons?i=selenium,unreal&perline=2" alt="Testing and game development" /> </div>
 <!-- ===================== GITHUB STATISTICS ===================== -->
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=SMani0547&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" alt="Shiva's GitHub statistics" />
@@ -106,13 +106,13 @@ Testing and Game Development
 
 </div>
 <!-- ===================== CONTRIBUTION ANIMATION ===================== -->
-🟡 Contribution Arcade
+## 🟡 Contribution Arcade
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SMani0547/SMani0547/output/pacman-contribution-graph-dark.svg" > <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SMani0547/SMani0547/output/pacman-contribution-graph.svg" > <img width="100%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/SMani0547/SMani0547/output/pacman-contribution-graph.svg" > </picture> <br> <details> <summary><strong>🐍 View Snake Contribution Animation</strong></summary> <br> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SMani0547/SMani0547/output/snake-dark.svg" > <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SMani0547/SMani0547/output/snake.svg" > <img width="100%" alt="Snake contribution animation" src="https://raw.githubusercontent.com/SMani0547/SMani0547/output/snake.svg" > </picture> </details>
 <!-- ===================== SPOTIFY ===================== -->
-🎧 Recently Played
+## 🎧 Recently Played
 <div align="center"> <a href="https://open.spotify.com/user/31gibphl2u7wal7otptf4nctbmle"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gibphl2u7wal7otptf4nctbmle&count=5&unique=true" alt="Recently played Spotify tracks" /> </a> </div>
 <div align="center">
-💬 Let’s Build Something Meaningful
+## 💬 Let’s Build Something Meaningful
 
 Interested in cloud systems, integrations, AI, cybersecurity or technology for the Pacific? Feel free to connect with me.
 
