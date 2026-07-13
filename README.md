@@ -139,9 +139,11 @@ I am a software engineer from Fiji who enjoys building reliable, practical and u
 
 </div>
 <br>
+
 ---
+
 <!-- ===================== FEATURED PROJECTS HEADER ===================== -->
-<br>
+
 <div align="center">
 
 <img
