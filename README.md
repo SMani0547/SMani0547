@@ -393,7 +393,7 @@ alt="3D Portfolio 2026"
 <tr>
 <td width="33%" align="center" valign="top">
 <img width="100%" src="./assets/projects/pacific-shield.png" alt="Pacific Shield" />
-<h3>🛡️ Pacific Shield</h3>
+<h3>🛡️ Cyber Safe</h3>
 <img src="https://img.shields.io/badge/Hackathon-Winner-F59E0B?style=flat-square" />
 <p>Pacific-focused scam detection, cybersecurity learning and reporting.</p>
 <img src="https://img.shields.io/badge/Cybersecurity-EA4335?style=flat-square" />
