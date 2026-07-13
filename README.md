@@ -138,9 +138,10 @@ I am a software engineer from Fiji who enjoys building reliable, practical and u
 <img width="70%" src="https://streak-stats.demolab.com?user=SMani0547&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly" alt="GitHub contribution streak" />
 
 </div>
-
+<br>
+---
 <!-- ===================== FEATURED PROJECTS HEADER ===================== -->
-
+<br>
 <div align="center">
 
 <img
