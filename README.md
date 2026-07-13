@@ -472,24 +472,34 @@ alt="3D Portfolio 2026"
 </details>
 
 ---
+<table width="100%">
+<tr>
+<td width="33%" align="center">
 <img
-  align="left"
-  height="150"
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpmZnUzZzI4eXU5OWJubzA1cjNieWtzY3RrYTI3cHh3aHdyMHJobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g5OSgysSjEuVtFq0GY/giphy.gif"
-  alt="Developer animation"
+width="100%"
+height="150"
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpmZnUzZzI4eXU5OWJubzA1cjNieWtzY3RrYTI3cHh3aHdyMHJobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g5OSgysSjEuVtFq0GY/giphy.gif"
+alt="Developer animation"
 />
+</td>
+<td width="33%" align="center">
 <img
-  align="center"
-  height="150"
-  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFreGp2aXl4OWxwdTN0ZnNmOG1hOTc0NnJ3Zml3ZGJ6NWM2M2xsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JCHM2csigByOLgpwYf/giphy.gif"
-  alt="Developer animation"
+width="100%"
+height="150"
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFreGp2aXl4OWxwdTN0ZnNmOG1hOTc0NnJ3Zml3ZGJ6NWM2M2xsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JCHM2csigByOLgpwYf/giphy.gif"
+alt="Developer animation"
 />
+</td>
+<td width="33%" align="center">
 <img
-  align="right"
-  height="150"
-  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1peDVjdmhwdzJlOTd0NXpwMTkwcDR3eTJvOGpiZ3JtbmRmdmtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLYQnbND9gkYU/giphy.gif"
-  alt="Developer animation"
+width="100%"
+height="150"
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1peDVjdmhwdzJlOTd0NXpwMTkwcDR3eTJvOGpiZ3JtbmRmdmtmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLYQnbND9gkYU/giphy.gif"
+alt="Developer animation"
 />
+</td>
+</tr>
+</table>
 
 <div align="center">
 
