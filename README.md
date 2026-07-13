@@ -471,6 +471,8 @@ alt="3D Portfolio 2026"
 
 </details>
 
+---
+
 <div align="center">
 
 <img
@@ -493,26 +495,7 @@ alt="Ichigo Kurosaki"
 />
 
 <br>
----
-<img
-width="31%"
-src="https://img.shields.io/badge/Monkey%20D.%20Luffy-One%20Piece-E11D48?style=for-the-badge"
-alt="Monkey D. Luffy"
-/>
-<img
-width="31%"
-src="https://img.shields.io/badge/Naruto%20Uzumaki-Naruto-F97316?style=for-the-badge"
-alt="Naruto Uzumaki"
-/>
-<img
-width="31%"
-src="https://img.shields.io/badge/Ichigo%20Kurosaki-Bleach-7C3AED?style=for-the-badge"
-alt="Ichigo Kurosaki"
-/>
 
-</div>
-
-<br>
 
 
 <br>
