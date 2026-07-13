@@ -493,7 +493,7 @@ alt="Ichigo Kurosaki"
 />
 
 <br>
-
+---
 <img
 width="31%"
 src="https://img.shields.io/badge/Monkey%20D.%20Luffy-One%20Piece-E11D48?style=for-the-badge"
