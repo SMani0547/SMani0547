@@ -54,7 +54,7 @@
 <img
   align="right"
   height="230"
-  src="https://media1.tenor.com/m/mFMR3Lr2g-IAAAAd/gutokenji-one-piece.gif"
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5iN3pzNG5qNTk0ZnQ3MjY0MnN4bm9zNTh4YndzOHlwM2hqYmUweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif"
   alt="Developer animation"
 />
 
