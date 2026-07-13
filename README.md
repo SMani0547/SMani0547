@@ -152,7 +152,7 @@ I am a software engineer from Fiji who enjoys building reliable, practical and u
 <td width="33%" align="center" valign="top">
 <img
 width="100%"
-src="YOUR_PORTFOLIO_2024_IMAGE"
+src="./assets/projects/portfolio-2024.png"
 alt="Portfolio 2024"
 />
 <h3>Portfolio V1</h3>
@@ -168,7 +168,7 @@ alt="Portfolio 2024"
 <td width="33%" align="center" valign="top">
 <img
 width="100%"
-src="YOUR_PORTFOLIO_2025_IMAGE"
+src="./assets/projects/portfolio-2025.png"
 alt="Portfolio 2025"
 />
 <h3>Portfolio V2</h3>
@@ -184,7 +184,7 @@ alt="Portfolio 2025"
 <td width="33%" align="center" valign="top">
 <img
 width="100%"
-src="YOUR_PORTFOLIO_2026_IMAGE"
+src="./assets/projects/portfolio-2026.png"
 alt="3D Portfolio 2026"
 />
 <h3>Portfolio V3</h3>
@@ -206,7 +206,7 @@ alt="3D Portfolio 2026"
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_MOVIEFUSION_IMAGE" alt="MovieFusion" />
+<img width="100%" src="./assets/projects/moviefusion.png" alt="MovieFusion" />
 <h3>🎬 MovieFusion</h3>
 <p>Movie discovery, streaming and synchronized watch-together platform.</p>
 <img src="https://img.shields.io/badge/TMDB-API-01B4E4?style=flat-square&logo=themoviedatabase" alt="TMDB API" />
@@ -221,7 +221,7 @@ alt="3D Portfolio 2026"
 </td>
 
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_NEON_CHAT_IMAGE" alt="Neon Chat" />
+<img width="100%" src="./assets/projects/neon-chat.png" alt="Neon Chat" />
 <h3>💬 Neon Chat</h3>
 <p>A Discord-inspired communication platform with real-time conversations.</p>
 <img src="https://img.shields.io/badge/Real--Time-Chat-22C55E?style=flat-square" alt="Real-time chat" />
@@ -238,7 +238,7 @@ alt="3D Portfolio 2026"
 
 <tr>
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_WEBINVITE_IMAGE" alt="WebInvite" />
+<img width="100%" src="./assets/projects/webinvite.png" alt="WebInvite" />
 <h3>💍 WebInvite</h3>
 <p>A platform for creating and sharing personalized digital wedding invitations.</p>
 <img src="https://img.shields.io/badge/Digital-Invitations-EC4899?style=flat-square" alt="Digital invitations" />
@@ -250,7 +250,7 @@ alt="3D Portfolio 2026"
 </td>
 
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_EDUCATION_PLATFORM_IMAGE" alt="Education Management Platform" />
+<img width="100%" src="./assets/projects/education-platform.png" alt="Education Management Platform" />
 <h3>🎓 Education Management Platform</h3>
 <p>Student recruitment, learning management, results and certificate generation.</p>
 <img src="https://img.shields.io/badge/LMS-Learning-6366F1?style=flat-square" alt="Learning management system" />
@@ -262,7 +262,7 @@ alt="3D Portfolio 2026"
 
 <tr>
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_HONEY_STORE_IMAGE" alt="Honey E-Commerce Store" />
+<img width="100%" src="./assets/projects/honey-store.png" alt="Honey E-Commerce Store" />
 <h3>🍯 Honey Store</h3>
 <p>A complete e-commerce website for browsing and purchasing honey products.</p>
 <img src="https://img.shields.io/badge/E--Commerce-Store-F59E0B?style=flat-square" alt="E-commerce store" />
@@ -274,7 +274,7 @@ alt="3D Portfolio 2026"
 </td>
 
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_CAKE_STORE_IMAGE" alt="Cake E-Commerce Store" />
+<img width="100%" src="./assets/projects/cake-store.png" alt="Cake E-Commerce Store" />
 <h3>🎂 Cake Store</h3>
 <p>An online cake catalogue and ordering platform with a visual shopping experience.</p>
 <img src="https://img.shields.io/badge/E--Commerce-Store-EC4899?style=flat-square" alt="E-commerce store" />
@@ -288,7 +288,7 @@ alt="3D Portfolio 2026"
 
 <tr>
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_CYBER_FINANCE_IMAGE" alt="Cyber Finance" />
+<img width="100%" src="./assets/projects/cyber-finance.png" alt="Cyber Finance" />
 <h3>💰 Cyber Finance</h3>
 <p>A personal budgeting application for tracking income, expenses and spending activity.</p>
 <img src="https://img.shields.io/badge/Finance-Budgeting-22C55E?style=flat-square" alt="Finance budgeting" />
@@ -300,7 +300,7 @@ alt="3D Portfolio 2026"
 </td>
 
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_MYSTIFY_IMAGE" alt="Mystify Music Streaming Platform" />
+<img width="100%" src="./assets/projects/mystify.png" alt="Mystify Music Streaming Platform" />
 <h3>🎵 Mystify</h3>
 <p>A music streaming platform focused on discovery, playlists and a modern listening experience.</p>
 <img src="https://img.shields.io/badge/Music-Streaming-8B5CF6?style=flat-square" alt="Music streaming" />
@@ -320,7 +320,7 @@ alt="3D Portfolio 2026"
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_CPVMS_HOTELLINK_IMAGE" alt="CPVMS Hotel Link Integration" />
+<img width="100%" src="./assets/projects/cpvms-hotellink.png" alt="CPVMS Hotel Link Integration" />
 <h3>🔗 CPVMS — Hotel Link</h3>
 <p>Middleware integration connecting Hotel Link booking and payment data with FRCS TaxCore.</p>
 <img src="https://img.shields.io/badge/Production-22C55E?style=flat-square" alt="Production" />
@@ -329,7 +329,7 @@ alt="3D Portfolio 2026"
 </td>
 
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_CPVMS_ABODE_IMAGE" alt="CPVMS AbodeBooking Integration" />
+<img width="100%" src="./assets/projects/cpvms-abodebooking.png" alt="CPVMS AbodeBooking Integration" />
 <h3>🏨 CPVMS — AbodeBooking</h3>
 <p>Webhook-driven booking, payment and fiscalisation integration for AbodeBooking.</p>
 <img src="https://img.shields.io/badge/Production-22C55E?style=flat-square" alt="Production" />
@@ -340,7 +340,7 @@ alt="3D Portfolio 2026"
 
 <tr>
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_CP_AI_IMAGE" alt="Internal CP AI Assistant" />
+<img width="100%" src="./assets/projects/cp-ai-assistant.png" alt="Internal CP AI Assistant" />
 <h3>🤖 Internal CP AI Assistant</h3>
 <p>An internal AI assistant for company knowledge, staff support and workflow automation.</p>
 <img src="https://img.shields.io/badge/AI-Assistant-8B5CF6?style=flat-square" alt="AI assistant" />
@@ -348,7 +348,7 @@ alt="3D Portfolio 2026"
 </td>
 
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_CPVMS_CURRENCY_IMAGE" alt="CPVMS Currency Exchange" />
+<img width="100%" src="./assets/projects/cpvms-currency.png" alt="CPVMS Currency Exchange" />
 <h3>💱 CPVMS Currency Exchange</h3>
 <p>An FJD-based currency conversion platform using live exchange-rate data.</p>
 <img src="https://img.shields.io/badge/Base-FJD-22C55E?style=flat-square" alt="FJD base currency" />
@@ -362,7 +362,7 @@ alt="3D Portfolio 2026"
 
 <tr>
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_CPVMS_CREDENTIAL_MANAGER_IMAGE" alt="CPVMS Credential Manager" />
+<img width="100%" src="./assets/projects/cpvms-credential-manager.png" alt="CPVMS Credential Manager" />
 <h3>🔐 CPVMS Credential Manager</h3>
 <p>A secure system for managing integration credentials, API keys and FRCS certificates.</p>
 <img src="https://img.shields.io/badge/Security-Credentials-EA4335?style=flat-square" alt="Credential security" />
@@ -371,7 +371,7 @@ alt="3D Portfolio 2026"
 </td>
 
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_CPVMS_ANALYTICS_IMAGE" alt="CPVMS Analytics" />
+<img width="100%" src="./assets/projects/cpvms-analytics.png" alt="CPVMS Analytics" />
 <h3>📈 CPVMS Analytics</h3>
 <p>A historical analytics platform for fiscalisation activity, transactions and system performance.</p>
 <img src="https://img.shields.io/badge/Data-Analytics-F59E0B?style=flat-square" alt="Data analytics" />
@@ -388,7 +388,7 @@ alt="3D Portfolio 2026"
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<img width="100%" src="YOUR_PACIFIC_SHIELD_IMAGE" alt="Pacific Shield" />
+<img width="100%" src="./assets/projects/pacific-shield.png" alt="Pacific Shield" />
 <h3>🛡️ Pacific Shield</h3>
 <img src="https://img.shields.io/badge/Hackathon-Winner-F59E0B?style=flat-square" />
 <p>Pacific-focused scam detection, cybersecurity learning and reporting.</p>
@@ -401,7 +401,7 @@ alt="3D Portfolio 2026"
 </td>
 
 <td width="33%" align="center" valign="top">
-<img width="100%" src="YOUR_PRI_IMAGE" alt="Pacific Response Intelligence" />
+<img width="100%" src="./assets/projects/pacific-response-intelligence.png" alt="Pacific Response Intelligence" />
 <h3>🌊 Pacific Response Intelligence</h3>
 <img src="https://img.shields.io/badge/Google-Hackathon-4285F4?style=flat-square&logo=google&logoColor=white" />
 <p>GPU-accelerated emergency risk scoring and decision intelligence.</p>
@@ -414,7 +414,7 @@ alt="3D Portfolio 2026"
 </td>
 
 <td width="33%" align="center" valign="top">
-<img width="100%" src="YOUR_NEXUS_IMAGE" alt="NEXUS" />
+<img width="100%" src="./assets/projects/nexus.png" alt="NEXUS" />
 <h3>🌱 NEXUS</h3>
 <img src="https://img.shields.io/badge/Ongoing-F59E0B?style=flat-square" />
 <p>Pacific crop and livestock data visualization and intelligence platform.</p>
