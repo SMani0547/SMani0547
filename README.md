@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api? type=waving&height=220&color=0:020617,50:1e3a8a,100:0ea5e9&text=Shiva%20Mani%20Goundar&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20Integrations&descAlignY=58&descSize=18&animation=fadeIn" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=0:020617,50:1e3a8a,100:0ea5e9&text=Shiva%20Mani%20Goundar&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20-%20Cloud%20-%20AI%20-%20Integrations&descAlignY=58&descSize=18&animation=fadeIn"
+  alt="Shiva Mani Goundar header"
+/>
 
 <a href="https://git.io/typing-svg">
   <img
