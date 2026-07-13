@@ -141,38 +141,44 @@ I am a software engineer from Fiji who enjoys building reliable, practical and u
 
 <!-- ===================== PROJECTS ===================== -->
 
-## 🚀 Featured Projects
-<!-- ===================== PROJECTS ===================== -->
+<!-- ===================== FEATURED PROJECTS HEADER ===================== -->
 
 <div align="center">
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:020617,50:1e3a8a,100:0ea5e9&text=Featured%20Projects&fontColor=ffffff&fontSize=32&fontAlignY=36&desc=Building%20ideas%20into%20real%20digital%20experiences&descAlignY=67&descSize=16"
+src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:020617,45:1E3A8A,100:0EA5E9&text=Featured%20Projects&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Ideas%20transformed%20into%20real%20digital%20experiences&descAlignY=64&descSize=18&animation=fadeIn"
 alt="Featured Projects"
 />
 
+<a href="https://git.io/typing-svg">
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=From+simple+websites+to+full-stack+platforms;Building+cloud+integrations+and+AI-powered+solutions;Creating+technology+for+Fiji+and+the+Pacific;Experimenting+with+interactive+3D+and+multiplayer+experiences"
+alt="Animated project introduction"
+/>
+</a>
+
 <br>
 
-<img src="https://img.shields.io/badge/Personal-Projects-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Personal Projects" />
-<img src="https://img.shields.io/badge/Professional-Systems-6366F1?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Professional Systems" />
-<img src="https://img.shields.io/badge/Hackathon-Innovations-F59E0B?style=for-the-badge&logo=lightning&logoColor=white" alt="Hackathon Innovations" />
+<img src="https://img.shields.io/badge/Personal-Projects-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Personal projects" />
+<img src="https://img.shields.io/badge/University-Projects-8B5CF6?style=for-the-badge&logo=graduationcap&logoColor=white" alt="University projects" />
+<img src="https://img.shields.io/badge/Professional-Systems-2563EB?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Professional systems" />
+<img src="https://img.shields.io/badge/Hackathon-Innovations-F59E0B?style=for-the-badge&logo=lightning&logoColor=white" alt="Hackathon innovations" />
 
 <br><br>
 
 <p>
-From simple static websites to full-stack platforms, cloud integrations, AI solutions and interactive 3D experiences.
+From early static websites to production cloud integrations, AI platforms and interactive 3D experiences.
 </p>
 
 <p>
-These projects represent my journey of learning, experimenting and building technology for real-world problems.
+These projects represent my journey of learning, experimenting and building technology that addresses real-world problems.
 </p>
 
 </div>
 
 <br>
 
----
 ---
 
 ## 🧑‍💻 Portfolio Evolution
