@@ -54,7 +54,7 @@
 <img
   align="right"
   height="230"
-  src="https://tenor.com/neYY3Wga0Pe.gif"
+  src="https://media1.tenor.com/m/mFMR3Lr2g-IAAAAd/gutokenji-one-piece.gif"
   alt="Developer animation"
 />
 
