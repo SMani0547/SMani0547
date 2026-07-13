@@ -494,7 +494,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1peDVjdmhwdzJlOTd0NXpwM
 alt="Ichigo Kurosaki"
 />
 
-<br>
+
 
 <img
 width="31%"
