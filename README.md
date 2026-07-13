@@ -209,14 +209,14 @@ alt="3D Portfolio 2026"
 <img width="100%" src="YOUR_MOVIEFUSION_IMAGE" alt="MovieFusion" />
 <h3>🎬 MovieFusion</h3>
 <p>Movie discovery, streaming and synchronized watch-together platform.</p>
-<img src="https://img.shields.io/badge/TMDB-API-01B4E4?style=flat-square&logo=themoviedatabase" />
-<img src="https://img.shields.io/badge/Watch%20Together-Real--Time-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/TMDB-API-01B4E4?style=flat-square&logo=themoviedatabase" alt="TMDB API" />
+<img src="https://img.shields.io/badge/Watch%20Together-Real--Time-8B5CF6?style=flat-square" alt="Watch Together" />
 <br><br>
 <a href="YOUR_MOVIEFUSION_URL">
-<img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MovieFusion live demo" />
 </a>
 <a href="YOUR_MOVIEFUSION_REPOSITORY">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="MovieFusion repository" />
 </a>
 </td>
 
@@ -224,14 +224,14 @@ alt="3D Portfolio 2026"
 <img width="100%" src="YOUR_NEON_CHAT_IMAGE" alt="Neon Chat" />
 <h3>💬 Neon Chat</h3>
 <p>A Discord-inspired communication platform with real-time conversations.</p>
-<img src="https://img.shields.io/badge/Real--Time-Chat-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/Community-Platform-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Real--Time-Chat-22C55E?style=flat-square" alt="Real-time chat" />
+<img src="https://img.shields.io/badge/Community-Platform-8B5CF6?style=flat-square" alt="Community platform" />
 <br><br>
 <a href="YOUR_NEON_CHAT_URL">
-<img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Neon Chat live demo" />
 </a>
 <a href="YOUR_NEON_CHAT_REPOSITORY">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Neon Chat repository" />
 </a>
 </td>
 </tr>
@@ -241,11 +241,11 @@ alt="3D Portfolio 2026"
 <img width="100%" src="YOUR_WEBINVITE_IMAGE" alt="WebInvite" />
 <h3>💍 WebInvite</h3>
 <p>A platform for creating and sharing personalized digital wedding invitations.</p>
-<img src="https://img.shields.io/badge/Digital-Invitations-EC4899?style=flat-square" />
-<img src="https://img.shields.io/badge/Custom-Themes-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Digital-Invitations-EC4899?style=flat-square" alt="Digital invitations" />
+<img src="https://img.shields.io/badge/Custom-Themes-8B5CF6?style=flat-square" alt="Custom themes" />
 <br><br>
 <a href="YOUR_WEBINVITE_URL">
-<img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View WebInvite" />
 </a>
 </td>
 
@@ -253,58 +253,65 @@ alt="3D Portfolio 2026"
 <img width="100%" src="YOUR_EDUCATION_PLATFORM_IMAGE" alt="Education Management Platform" />
 <h3>🎓 Education Management Platform</h3>
 <p>Student recruitment, learning management, results and certificate generation.</p>
-<img src="https://img.shields.io/badge/LMS-Learning-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/Student-Management-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/LMS-Learning-6366F1?style=flat-square" alt="Learning management system" />
+<img src="https://img.shields.io/badge/Student-Management-0EA5E9?style=flat-square" alt="Student management" />
 <br><br>
-<img src="https://img.shields.io/badge/Private%20Project-64748B?style=for-the-badge&logo=lock&logoColor=white" />
+<img src="https://img.shields.io/badge/Private%20Project-64748B?style=for-the-badge&logo=lock&logoColor=white" alt="Private project" />
 </td>
 </tr>
-</table>
 
-<details>
-  <summary><strong>📦 View more personal projects</strong></summary>
-
-  <br>
-
-<table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
+<img width="100%" src="YOUR_HONEY_STORE_IMAGE" alt="Honey E-Commerce Store" />
 <h3>🍯 Honey Store</h3>
-<p>Full e-commerce website for honey products.</p>
+<p>A complete e-commerce website for browsing and purchasing honey products.</p>
+<img src="https://img.shields.io/badge/E--Commerce-Store-F59E0B?style=flat-square" alt="E-commerce store" />
+<img src="https://img.shields.io/badge/Product-Catalogue-22C55E?style=flat-square" alt="Product catalogue" />
+<br><br>
 <a href="YOUR_HONEY_STORE_URL">
-<img src="https://img.shields.io/badge/View-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Honey Store" />
 </a>
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
+<img width="100%" src="YOUR_CAKE_STORE_IMAGE" alt="Cake E-Commerce Store" />
 <h3>🎂 Cake Store</h3>
-<p>Online cake catalogue and ordering platform.</p>
+<p>An online cake catalogue and ordering platform with a visual shopping experience.</p>
+<img src="https://img.shields.io/badge/E--Commerce-Store-EC4899?style=flat-square" alt="E-commerce store" />
+<img src="https://img.shields.io/badge/Online-Ordering-8B5CF6?style=flat-square" alt="Online ordering" />
+<br><br>
 <a href="YOUR_CAKE_STORE_URL">
-<img src="https://img.shields.io/badge/View-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Cake Store" />
 </a>
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
+<img width="100%" src="YOUR_CYBER_FINANCE_IMAGE" alt="Cyber Finance" />
 <h3>💰 Cyber Finance</h3>
-<p>Personal budgeting and expense-management application.</p>
+<p>A personal budgeting application for tracking income, expenses and spending activity.</p>
+<img src="https://img.shields.io/badge/Finance-Budgeting-22C55E?style=flat-square" alt="Finance budgeting" />
+<img src="https://img.shields.io/badge/Expense-Tracking-0EA5E9?style=flat-square" alt="Expense tracking" />
+<br><br>
 <a href="YOUR_CYBER_FINANCE_URL">
-<img src="https://img.shields.io/badge/View-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Cyber Finance" />
 </a>
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
+<img width="100%" src="YOUR_MYSTIFY_IMAGE" alt="Mystify Music Streaming Platform" />
 <h3>🎵 Mystify</h3>
-<p>A music streaming experience currently under development.</p>
+<p>A music streaming platform focused on discovery, playlists and a modern listening experience.</p>
+<img src="https://img.shields.io/badge/Music-Streaming-8B5CF6?style=flat-square" alt="Music streaming" />
+<img src="https://img.shields.io/badge/In%20Development-F59E0B?style=flat-square" alt="In development" />
+<br><br>
 <a href="YOUR_MYSTIFY_URL">
-<img src="https://img.shields.io/badge/Development%20Build-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Development%20Build-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Mystify development build" />
 </a>
 </td>
 </tr>
 </table>
-
-</details>
 
 ---
 
@@ -313,71 +320,66 @@ alt="3D Portfolio 2026"
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_CPVMS_HOTELLINK_IMAGE" alt="CPVMS Hotel Link" />
+<img width="100%" src="YOUR_CPVMS_HOTELLINK_IMAGE" alt="CPVMS Hotel Link Integration" />
 <h3>🔗 CPVMS — Hotel Link</h3>
-<p>Middleware integration connecting Hotel Link with FRCS TaxCore.</p>
-<img src="https://img.shields.io/badge/Production-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/FRCS-TaxCore-6366F1?style=flat-square" />
+<p>Middleware integration connecting Hotel Link booking and payment data with FRCS TaxCore.</p>
+<img src="https://img.shields.io/badge/Production-22C55E?style=flat-square" alt="Production" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/FRCS-TaxCore-6366F1?style=flat-square" alt="FRCS TaxCore" />
 </td>
 
 <td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_CPVMS_ABODE_IMAGE" alt="CPVMS AbodeBooking" />
+<img width="100%" src="YOUR_CPVMS_ABODE_IMAGE" alt="CPVMS AbodeBooking Integration" />
 <h3>🏨 CPVMS — AbodeBooking</h3>
-<p>Webhook-driven booking and fiscalisation integration for AbodeBooking.</p>
-<img src="https://img.shields.io/badge/Production-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/Webhooks-EC4899?style=flat-square" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<p>Webhook-driven booking, payment and fiscalisation integration for AbodeBooking.</p>
+<img src="https://img.shields.io/badge/Production-22C55E?style=flat-square" alt="Production" />
+<img src="https://img.shields.io/badge/Webhooks-EC4899?style=flat-square" alt="Webhooks" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center" valign="top">
-<img width="100%" src="YOUR_CPVMS_HUB_IMAGE" alt="CPVMS Integration Hub" />
-<h3>🧩 CPVMS Integration Hub</h3>
-<p>A central portal for CPVMS production, staging and upcoming integrations.</p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" height="30" />
-<br><br>
-<a href="YOUR_CPVMS_HUB_URL">
-<img src="https://img.shields.io/badge/View%20Platform-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-</td>
-
 <td width="50%" align="center" valign="top">
 <img width="100%" src="YOUR_CP_AI_IMAGE" alt="Internal CP AI Assistant" />
 <h3>🤖 Internal CP AI Assistant</h3>
-<p>An internal AI assistant for company information, support and automation.</p>
-<img src="https://img.shields.io/badge/AI-Assistant-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Internal-Private-64748B?style=flat-square" />
+<p>An internal AI assistant for company knowledge, staff support and workflow automation.</p>
+<img src="https://img.shields.io/badge/AI-Assistant-8B5CF6?style=flat-square" alt="AI assistant" />
+<img src="https://img.shields.io/badge/Internal-Private-64748B?style=flat-square" alt="Internal private project" />
+</td>
+
+<td width="50%" align="center" valign="top">
+<img width="100%" src="YOUR_CPVMS_CURRENCY_IMAGE" alt="CPVMS Currency Exchange" />
+<h3>💱 CPVMS Currency Exchange</h3>
+<p>An FJD-based currency conversion platform using live exchange-rate data.</p>
+<img src="https://img.shields.io/badge/Base-FJD-22C55E?style=flat-square" alt="FJD base currency" />
+<img src="https://img.shields.io/badge/Exchange%20Rate-API-0EA5E9?style=flat-square" alt="Exchange rate API" />
+<br><br>
+<a href="YOUR_CPVMS_CURRENCY_URL">
+<img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View CPVMS Currency Exchange" />
+</a>
 </td>
 </tr>
-</table>
 
-<details>
-  <summary><strong>⚙️ View more CPVMS ecosystem projects</strong></summary>
-
-  <br>
-
-<table>
 <tr>
-<td width="33%" align="center">
-<h3>💱 Currency Exchange</h3>
-<p>FJD-based currency conversion platform.</p>
+<td width="50%" align="center" valign="top">
+<img width="100%" src="YOUR_CPVMS_CREDENTIAL_MANAGER_IMAGE" alt="CPVMS Credential Manager" />
+<h3>🔐 CPVMS Credential Manager</h3>
+<p>A secure system for managing integration credentials, API keys and FRCS certificates.</p>
+<img src="https://img.shields.io/badge/Security-Credentials-EA4335?style=flat-square" alt="Credential security" />
+<img src="https://img.shields.io/badge/Multi--Tenant-6366F1?style=flat-square" alt="Multi-tenant" />
+<img src="https://img.shields.io/badge/Internal-Private-64748B?style=flat-square" alt="Internal private project" />
 </td>
 
-<td width="33%" align="center">
-<h3>🔐 Credential Manager</h3>
-<p>Secure integration credential and certificate management.</p>
-</td>
-
-<td width="33%" align="center">
+<td width="50%" align="center" valign="top">
+<img width="100%" src="YOUR_CPVMS_ANALYTICS_IMAGE" alt="CPVMS Analytics" />
 <h3>📈 CPVMS Analytics</h3>
-<p>Historical fiscalisation data and performance insights.</p>
+<p>A historical analytics platform for fiscalisation activity, transactions and system performance.</p>
+<img src="https://img.shields.io/badge/Data-Analytics-F59E0B?style=flat-square" alt="Data analytics" />
+<img src="https://img.shields.io/badge/Historical-Insights-0EA5E9?style=flat-square" alt="Historical insights" />
+<img src="https://img.shields.io/badge/Internal-Private-64748B?style=flat-square" alt="Internal private project" />
 </td>
 </tr>
 </table>
-
-</details>
 
 ---
 
