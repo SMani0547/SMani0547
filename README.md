@@ -237,9 +237,7 @@ alt="3D Portfolio 2026"
 
 ## 🎓 University Projects
 
-<p align="center">
-Selected academic projects focused on solving practical community and operational challenges.
-</p>
+
 
 <table>
 <tr>
