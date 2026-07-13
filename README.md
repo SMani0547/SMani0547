@@ -142,11 +142,37 @@ I am a software engineer from Fiji who enjoys building reliable, practical and u
 <!-- ===================== PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
+<!-- ===================== PROJECTS ===================== -->
 
-<p align="center">
-  Selected personal, professional and hackathon projects.
+<div align="center">
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:020617,50:1e3a8a,100:0ea5e9&text=Featured%20Projects&fontColor=ffffff&fontSize=32&fontAlignY=36&desc=Building%20ideas%20into%20real%20digital%20experiences&descAlignY=67&descSize=16"
+alt="Featured Projects"
+/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Personal-Projects-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Personal Projects" />
+<img src="https://img.shields.io/badge/Professional-Systems-6366F1?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Professional Systems" />
+<img src="https://img.shields.io/badge/Hackathon-Innovations-F59E0B?style=for-the-badge&logo=lightning&logoColor=white" alt="Hackathon Innovations" />
+
+<br><br>
+
+<p>
+From simple static websites to full-stack platforms, cloud integrations, AI solutions and interactive 3D experiences.
 </p>
 
+<p>
+These projects represent my journey of learning, experimenting and building technology for real-world problems.
+</p>
+
+</div>
+
+<br>
+
+---
 ---
 
 ## 🧑‍💻 Portfolio Evolution
