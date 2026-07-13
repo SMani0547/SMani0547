@@ -482,3 +482,21 @@ alt="3D Portfolio 2026"
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:1e3a8a,100:0ea5e9" alt="Footer" />
 
 </div>
+<img
+  align="left"
+  height="230"
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5iN3pzNG5qNTk0ZnQ3MjY0MnN4bm9zNTh4YndzOHlwM2hqYmUweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif"
+  alt="Developer animation"
+/>
+<img
+  align="center"
+  height="230"
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5iN3pzNG5qNTk0ZnQ3MjY0MnN4bm9zNTh4YndzOHlwM2hqYmUweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif"
+  alt="Developer animation"
+/>
+<img
+  align="right"
+  height="230"
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5iN3pzNG5qNTk0ZnQ3MjY0MnN4bm9zNTh4YndzOHlwM2hqYmUweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif"
+  alt="Developer animation"
+/>
