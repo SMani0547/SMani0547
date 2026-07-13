@@ -473,18 +473,6 @@ alt="3D Portfolio 2026"
 
 ---
 
-<!-- ===================== SPOTIFY ===================== -->
-
-## 🎧 Recently Played
-
-<div align="center">
-<a href="https://open.spotify.com/user/31gibphl2u7wal7otptf4nctbmle">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31gibphl2u7wal7otptf4nctbmle&count=5&unique=true" alt="Recently played Spotify tracks" />
-</a>
-</div>
-
----
-
 <div align="center">
 
 <h2>💬 Let’s Build Something Meaningful</h2>
