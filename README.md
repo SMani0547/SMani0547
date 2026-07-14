@@ -708,7 +708,7 @@ Have a project, integration or collaboration idea?<br>
 Send me a message and I’ll get back to you.
 </p>
 
-<a href="https://YOUR-CONTACT-APP.replit.app">
+<a href="https://contact.shivafj.dev">
 <img
 src="https://img.shields.io/badge/Send%20a%20Message-Open%20Contact%20Form-0EA5E9?style=for-the-badge&logo=maildotru&logoColor=white"
 alt="Open contact form"
