@@ -411,11 +411,8 @@ alt="View source code"
 <img src="https://img.shields.io/badge/TMDB-API-01B4E4?style=flat-square&logo=themoviedatabase" alt="TMDB API" />
 <img src="https://img.shields.io/badge/Watch%20Together-Real--Time-8B5CF6?style=flat-square" alt="Watch Together" />
 <br><br>
-<a href="YOUR_MOVIEFUSION_URL">
+<a href="https://movie.shivafj.dev">
 <img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MovieFusion live demo" />
-</a>
-<a href="YOUR_MOVIEFUSION_REPOSITORY">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="MovieFusion repository" />
 </a>
 </td>
 
@@ -426,11 +423,8 @@ alt="View source code"
 <img src="https://img.shields.io/badge/Real--Time-Chat-22C55E?style=flat-square" alt="Real-time chat" />
 <img src="https://img.shields.io/badge/Community-Platform-8B5CF6?style=flat-square" alt="Community platform" />
 <br><br>
-<a href="YOUR_NEON_CHAT_URL">
+<a href="https://chat.shivafj.dev">
 <img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Neon Chat live demo" />
-</a>
-<a href="YOUR_NEON_CHAT_REPOSITORY">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Neon Chat repository" />
 </a>
 </td>
 </tr>
@@ -443,7 +437,7 @@ alt="View source code"
 <img src="https://img.shields.io/badge/Digital-Invitations-EC4899?style=flat-square" alt="Digital invitations" />
 <img src="https://img.shields.io/badge/Custom-Themes-8B5CF6?style=flat-square" alt="Custom themes" />
 <br><br>
-<a href="YOUR_WEBINVITE_URL">
+<a href="https://wedinvite.shivafj.dev">
 <img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View WebInvite" />
 </a>
 </td>
@@ -467,7 +461,7 @@ alt="View source code"
 <img src="https://img.shields.io/badge/E--Commerce-Store-F59E0B?style=flat-square" alt="E-commerce store" />
 <img src="https://img.shields.io/badge/Product-Catalogue-22C55E?style=flat-square" alt="Product catalogue" />
 <br><br>
-<a href="YOUR_HONEY_STORE_URL">
+<a href="https://honey.shivafj.dev">
 <img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Honey Store" />
 </a>
 </td>
@@ -479,7 +473,7 @@ alt="View source code"
 <img src="https://img.shields.io/badge/E--Commerce-Store-EC4899?style=flat-square" alt="E-commerce store" />
 <img src="https://img.shields.io/badge/Online-Ordering-8B5CF6?style=flat-square" alt="Online ordering" />
 <br><br>
-<a href="YOUR_CAKE_STORE_URL">
+<a href="https://cake.shivafj.dev">
 <img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Cake Store" />
 </a>
 </td>
@@ -493,7 +487,7 @@ alt="View source code"
 <img src="https://img.shields.io/badge/Finance-Budgeting-22C55E?style=flat-square" alt="Finance budgeting" />
 <img src="https://img.shields.io/badge/Expense-Tracking-0EA5E9?style=flat-square" alt="Expense tracking" />
 <br><br>
-<a href="YOUR_CYBER_FINANCE_URL">
+<a href="https://finance.shivafj.dev">
 <img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Cyber Finance" />
 </a>
 </td>
@@ -505,7 +499,7 @@ alt="View source code"
 <img src="https://img.shields.io/badge/Music-Streaming-8B5CF6?style=flat-square" alt="Music streaming" />
 <img src="https://img.shields.io/badge/In%20Development-F59E0B?style=flat-square" alt="In development" />
 <br><br>
-<a href="YOUR_MYSTIFY_URL">
+<a href="https://mystify.shivafj.dev">
 <img src="https://img.shields.io/badge/Development%20Build-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Mystify development build" />
 </a>
 </td>
@@ -525,6 +519,7 @@ alt="View source code"
 <img src="https://img.shields.io/badge/Production-22C55E?style=flat-square" alt="Production" />
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
 <img src="https://img.shields.io/badge/FRCS-TaxCore-6366F1?style=flat-square" alt="FRCS TaxCore" />
+<img src="https://img.shields.io/badge/Internal-Private-64748B?style=flat-square" alt="Internal private project" />
 </td>
 
 <td width="50%" align="center" valign="top">
@@ -534,6 +529,7 @@ alt="View source code"
 <img src="https://img.shields.io/badge/Production-22C55E?style=flat-square" alt="Production" />
 <img src="https://img.shields.io/badge/Webhooks-EC4899?style=flat-square" alt="Webhooks" />
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Internal-Private-64748B?style=flat-square" alt="Internal private project" />
 </td>
 </tr>
 
@@ -553,7 +549,7 @@ alt="View source code"
 <img src="https://img.shields.io/badge/Base-FJD-22C55E?style=flat-square" alt="FJD base currency" />
 <img src="https://img.shields.io/badge/Exchange%20Rate-API-0EA5E9?style=flat-square" alt="Exchange rate API" />
 <br><br>
-<a href="YOUR_CPVMS_CURRENCY_URL">
+<a href="https://exchange.cpvms.com">
 <img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View CPVMS Currency Exchange" />
 </a>
 </td>
@@ -594,7 +590,7 @@ alt="View source code"
 <img src="https://img.shields.io/badge/Cybersecurity-EA4335?style=flat-square" />
 <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square" />
 <br><br>
-<a href="https://cybersafe.shivafj.dev/">
+<a href="https://cybersafe.shivafj.dev">
 <img src="https://img.shields.io/badge/Live%20Prototype-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </td>
@@ -607,7 +603,7 @@ alt="View source code"
 <img src="https://img.shields.io/badge/NVIDIA-RAPIDS-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
 <br><br>
-<a href="https://pacific-response-aid.lovable.app/">
+<a href="https://drua.shivafj.dev">
 <img src="https://img.shields.io/badge/Live%20Platform-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </td>
