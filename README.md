@@ -438,7 +438,7 @@ alt="View source code"
 <tr>
 <td width="50%" align="center" valign="top">
 <img width="100%" src="./assets/projects/webinvite.png" alt="WebInvite" />
-<h3><img src="https://api.iconify.design/lucide/mail-open.svg?color=%2322D3EE" width="21" align="center" alt="WebInvite" />&nbsp; WebInvite</h3>
+<h3><img src="https://api.iconify.design/lucide/mail-open.svg?color=%2322D3EE" width="21" align="center" alt="WebInvite" />&nbsp; WedInvite</h3>
 <p>A platform for creating and sharing personalized digital wedding invitations.</p>
 <img src="https://img.shields.io/badge/Digital-Invitations-EC4899?style=flat-square" alt="Digital invitations" />
 <img src="https://img.shields.io/badge/Custom-Themes-8B5CF6?style=flat-square" alt="Custom themes" />
