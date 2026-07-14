@@ -149,6 +149,7 @@ alt="Technology"
 <div align="center">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
@@ -326,22 +327,6 @@ src="https://img.shields.io/badge/Location-Based-6366F1?style=flat-square"
 alt="Location based"
 />
 
-<br><br>
-
-<a href="YOUR_FIXIT_FIJI_URL">
-<img
-src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"
-alt="View FixIt Fiji"
-/>
-</a>
-
-<a href="YOUR_FIXIT_FIJI_REPOSITORY">
-<img
-src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"
-alt="View FixIt Fiji source code"
-/>
-</a>
-
 </td>
 
 <td width="50%" align="center" valign="top">
@@ -386,22 +371,6 @@ alt="Event management"
 src="https://img.shields.io/badge/Scheduling-6366F1?style=flat-square"
 alt="Scheduling"
 />
-
-<br><br>
-
-<a href="YOUR_SPORTS_FACILITY_URL">
-<img
-src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"
-alt="View Sports Facility Management System"
-/>
-</a>
-
-<a href="YOUR_SPORTS_FACILITY_REPOSITORY">
-<img
-src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"
-alt="View source code"
-/>
-</a>
 
 </td>
 
