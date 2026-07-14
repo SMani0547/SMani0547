@@ -88,51 +88,75 @@ I am a software engineer from Fiji who enjoys building reliable, practical and u
 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
-<h2><img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338BDF8" width="26" align="center" alt="Technology" />&nbsp; Technology Stack</h2>
+<h2>
+  <img
+    src="https://api.iconify.design/lucide/code-xml.svg?color=%2338BDF8"
+    width="26"
+    align="center"
+    alt="Technology"
+  />&nbsp; Technology Stack
+</h2>
 
 ### Languages
 
 <div align="center">
-<img
-src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,kotlin&perline=7&theme=dark"
-alt="Programming languages"
-/>
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,kotlin&perline=7&theme=dark"
+    alt="Programming languages"
+  />
 </div>
 
 ### Frontend and Full-Stack Development
 
 <div align="center">
-<img
-src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap&perline=7&theme=dark"
-alt="Frontend and full-stack technologies"
-/>
+  <img
+    src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap&perline=7&theme=dark"
+    alt="Frontend and full-stack technologies"
+  />
 </div>
 
 ### Backend, Cloud and DevOps
 
 <div align="center">
-<img
-src="https://skillicons.dev/icons?i=nodejs,express,dotnet,spring,docker,gcp,azure,firebase,githubactions&perline=9&theme=dark"
-alt="Backend, cloud and DevOps technologies"
-/>
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,dotnet,spring,docker,gcp,azure,firebase,githubactions&perline=9&theme=dark"
+    alt="Backend, cloud and DevOps technologies"
+  />
+</div>
+
+### Hosting and Deployment Platforms
+
+<div align="center">
+  <img
+    src="https://skillicons.dev/icons?i=vercel,netlify&perline=2&theme=dark"
+    alt="Vercel and Netlify"
+  />
+
+  <img width="10" />
+
+  <img
+    height="48"
+    src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=0B1F2A"
+    alt="Render"
+  />
 </div>
 
 ### Databases and Development Tools
 
 <div align="center">
-<img
-src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,git,github,postman,jira&perline=8&theme=dark"
-alt="Databases and development tools"
-/>
+  <img
+    src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,git,github,postman,jira&perline=8&theme=dark"
+    alt="Databases and development tools"
+  />
 </div>
 
 ### Testing, 3D and Game Development
 
 <div align="center">
-<img
-src="https://skillicons.dev/icons?i=selenium,blender,unreal&perline=3&theme=dark"
-alt="Testing, 3D and game development tools"
-/>
+  <img
+    src="https://skillicons.dev/icons?i=selenium,blender,unreal&perline=3&theme=dark"
+    alt="Testing, 3D and game development tools"
+  />
 </div>
 
 ---
