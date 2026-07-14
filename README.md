@@ -234,7 +234,7 @@ alt="Portfolio 2024"
 <p>My first simple personal portfolio built with core web technologies.</p>
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="32" />
 <br><br>
-<a href="YOUR_PORTFOLIO_2024_URL">
+<a href="https://smani0547.github.io">
 <img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </td>
@@ -250,7 +250,7 @@ alt="Portfolio 2025"
 <p>A modern full-stack portfolio with dynamic content and backend services.</p>
 <img src="https://skillicons.dev/icons?i=react,supabase,vite&theme=dark" height="32" />
 <br><br>
-<a href="YOUR_PORTFOLIO_2025_URL">
+<a href="https://portfolio.shivafj.dev">
 <img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </td>
@@ -266,7 +266,7 @@ alt="3D Portfolio 2026"
 <p>An interactive multiplayer 3D world where visitors explore my projects.</p>
 <img src="https://skillicons.dev/icons?i=react,blender,threejs&theme=dark" height="32" />
 <br><br>
-<a href="YOUR_PORTFOLIO_2026_URL">
+<a href="https://game.shivafj.dev">
 <img src="https://img.shields.io/badge/View%20Build-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </td>
@@ -298,7 +298,6 @@ alt="FixIt Fiji civic issue reporting platform"
 src="https://img.shields.io/badge/Final%20Year-Project-8B5CF6?style=flat-square"
 alt="Final year project"
 />
-
 <img
 src="https://img.shields.io/badge/Civic-Tech-0EA5E9?style=flat-square"
 alt="Civic technology"
@@ -316,12 +315,10 @@ Reports can include issue information and location details, helping responsible 
 src="https://img.shields.io/badge/Issue-Reporting-EA4335?style=flat-square"
 alt="Issue reporting"
 />
-
 <img
 src="https://img.shields.io/badge/Community-Platform-22C55E?style=flat-square"
 alt="Community platform"
 />
-
 <img
 src="https://img.shields.io/badge/Location-Based-6366F1?style=flat-square"
 alt="Location based"
@@ -343,7 +340,6 @@ alt="Sports Facility Management System"
 src="https://img.shields.io/badge/University-Project-8B5CF6?style=flat-square"
 alt="University project"
 />
-
 <img
 src="https://img.shields.io/badge/Booking-System-0EA5E9?style=flat-square"
 alt="Booking system"
@@ -361,12 +357,10 @@ The system helps users check facility availability, make bookings and stay infor
 src="https://img.shields.io/badge/Facility-Booking-22C55E?style=flat-square"
 alt="Facility booking"
 />
-
 <img
 src="https://img.shields.io/badge/Event-Management-F59E0B?style=flat-square"
 alt="Event management"
 />
-
 <img
 src="https://img.shields.io/badge/Scheduling-6366F1?style=flat-square"
 alt="Scheduling"
