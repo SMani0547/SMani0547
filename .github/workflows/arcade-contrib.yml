@@ -12,18 +12,30 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: platane/snk@v3
+      - name: Prepare output directory
+        run: mkdir -p dist
+
+      - name: Generate Pac-Man contribution graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: Generate Snake contribution graph
+        uses: platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
+      - name: Fix file permissions
+        run: sudo chown -R $USER:$USER dist
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
